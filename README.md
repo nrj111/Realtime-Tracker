@@ -66,19 +66,8 @@ Realtime-Tracker/
 
 ---
 
-## 🏃‍♂️ Getting Started  
 
-### 1️⃣ Clone the repository  
-```bash
-git clone https://github.com/your-username/Realtime-Tracker.git
-cd Realtime-Tracker
-
-npm install
-
-node app.js
-
-
-## 🌟 Future Improvements
+### 🌟 Future Improvements
 
 📌 Usernames for markers
 
@@ -88,8 +77,9 @@ node app.js
 
 📌 Mobile-friendly UI
 
+---
 
-##🖼️ Demo Diagram
+### 🖼️ Demo Diagram
 +-----------+        +-------------+        +-----------+
 |  Browser  | <----> |   Server    | <----> |  Browser  |
 | (Client1) |        | (Socket.io) |        | (Client2) |
@@ -98,9 +88,21 @@ node app.js
    Geolocation          Broadcasts           Realtime
    API (coords)         Coordinates          Location
 
+---
 
-##💡 Author
+### 💡 Author
 
 👨‍💻 Developed by Neeraj Jalodiya
 📧 Contact: [jalodiyaneeraj@gmail.com]
 🔗 GitHub: [https://github.com/nrj111]
+
+---
+
+## 🏃‍♂️ Getting Started  
+
+### Clone the repository  
+```bash
+git clone https://github.com/your-username/Realtime-Tracker.git
+cd Realtime-Tracker
+npm install
+node app.js
